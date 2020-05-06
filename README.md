@@ -1,12 +1,11 @@
 > This repository contains the submission for TCS HumAIn 2019 Contest
-# FACE-DETECTION-AND-AGE-GENDER-EMOTION
 Project on Face Detection and Detecting Age ,Gender ,Emotion on Faces
 
-Problem Statement: -
+**Problem Statement: -**
 
-Face Recognition – Identify the Age, Emotion & Ethnicity of a person
+**Face Recognition – Identify the Age, Emotion & Ethnicity of a person**
 (Category: -Computer Vision)
-1) Background: -
+**1) Background: -**
 
 The father of facial recognition was Woodrow Wilson Bledsoe. Working
 in the 1960s, Bledsoe developed a system that could classify photos of faces by hand
@@ -28,7 +27,7 @@ biometrics, or the measurement of biological data.
 It is a system is a computer application for automatically identifying or verifying a
 person from a digital image or a video frame from a video source
 
-2) Your Understanding: -
+**2) Your Understanding: -**
 
 Face recognition is one of the many wonders that AI research has brought
 forward to the world. Facial recognition technology falls under the category of
@@ -55,7 +54,7 @@ iv. Then on this face perform suitable algorithm (technique) for Identification 
 person Age, Gender and Ethnicity.
  Detailed Algorithm is Explained below.
  
-3) Scope: -
+**3) Scope: -**
 
 This project involves building project (program) implemented using Artificial
 Intelligence and Machine Learning for Human Face Recognition, Identifying age,
